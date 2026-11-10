@@ -25,6 +25,7 @@ Verified machine learning implementations completed on [TensorTonic](https://www
 | Find a Go Group and Its Liberties | Trace the orthogonally connected stones containing one occupied board point and collect every distinct empty intersection adjacent to that group. | https://www.tensortonic.com/problems/alphago-l01-group-liberties |
 | Initialize Legal MCTS Edge Statistics | A newly expanded search node receives one edge for every action, but only legal actions receive prior mass. | https://www.tensortonic.com/problems/alphago-l03-initialize-edge-statistics |
 | Evaluate a Scalar Neuron | Evaluate a scalar PyTorch tanh neuron from aligned inputs, weights, and bias using promoted floating-point types. | https://www.tensortonic.com/problems/autograd-l04-neuron-forward |
+| Apply Local Vector-Jacobian Rules | A reverse-mode autodiff engine moves an upstream scalar gradient through one operation at a time. | https://www.tensortonic.com/problems/autograd-l05-local-vjp-rules |
 | Cosine Annealing LR Scheduler | Compute a cosine-annealed learning rate between configured maximum and minimum values across training steps. | https://www.tensortonic.com/problems/cosine-annealing-lr |
 | ELU Activation | Apply the ELU activation element-wise, retaining positive inputs and exponentially transforming negative values. | https://www.tensortonic.com/problems/elu-activation |
 | Compute Entropy for a Node | Compute decision-tree node entropy from class labels using empirical class probabilities and base-two logarithms. | https://www.tensortonic.com/problems/entropy-node |
